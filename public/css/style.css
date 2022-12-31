@@ -1,0 +1,4 @@
+.contenido-acciones-formulario-naves {
+    display: flex;
+    justify-content: space-between;
+}
